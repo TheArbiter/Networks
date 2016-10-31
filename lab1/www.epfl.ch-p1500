@@ -1,0 +1,6 @@
+PING www6.epfl.ch (128.178.50.12) 1472(1500) bytes of data.
+1480 bytes from www6.epfl.ch (128.178.50.12): icmp_req=1 ttl=41 time=331 ms
+
+--- www6.epfl.ch ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 331.569/331.569/331.569/0.000 ms

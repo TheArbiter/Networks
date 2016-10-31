@@ -1,0 +1,6 @@
+PING aau.dk (130.225.63.3) 1222(1250) bytes of data.
+1230 bytes from vm-ig-www2.portal.aau.dk (130.225.63.3): icmp_req=1 ttl=45 time=330 ms
+
+--- aau.dk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 330.946/330.946/330.946/0.000 ms

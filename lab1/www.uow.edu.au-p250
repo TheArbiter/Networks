@@ -1,0 +1,6 @@
+PING www.uow.edu.au (130.130.215.2) 222(250) bytes of data.
+230 bytes from www.uow.edu.au (130.130.215.2): icmp_req=1 ttl=54 time=3.02 ms
+
+--- www.uow.edu.au ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.027/3.027/3.027/0.000 ms

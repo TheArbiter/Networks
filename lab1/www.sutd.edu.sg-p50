@@ -1,0 +1,6 @@
+PING www.wip.sutd.edu.sg (202.94.70.56) 22(50) bytes of data.
+30 bytes from www.sutd.edu.sg (202.94.70.56): icmp_req=1 ttl=240 time=342 ms
+
+--- www.wip.sutd.edu.sg ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 1029ms
+rtt min/avg/max/mdev = 342.182/342.182/342.182/0.000 ms

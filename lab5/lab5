@@ -1,0 +1,9 @@
+1-4) cant do because mininet x11 support not working on cse lab machines. Tried it on 2 different cse machines
+
+5)No, Since the switch between Alice,bob,eve already learned about the address of Alice and Bob it will not broadcast the packet and therefore Eve will not be able to see the packets between Alice and Bob
+
+6)Eve floods the switch with a large number of invalid source MAC addresses until the MAC address table fills up. Once its fully loaded it wont be able to save any more MAC address
+
+7)When the MAC address table is full the switch floods all ports with incoming traffic because it cannot find the port number for a particular MAC address in the MAC address table.So in this way frames sent from Alice to bob are also broadcast out to Eve.
+
+8)To prevent MAC flooding attacks network operators rely on a feature called port security. many advanced switches can be configured to limit the number of MAC addresses that can be learned on ports connected to end stations.Also MAC addresses to be authenticated against an AAA server and subsequently filtered.

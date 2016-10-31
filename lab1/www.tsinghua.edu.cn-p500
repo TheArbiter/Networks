@@ -1,0 +1,6 @@
+PING www.d.tsinghua.edu.cn (166.111.4.100) 472(500) bytes of data.
+480 bytes from www.tsinghua.edu.cn (166.111.4.100): icmp_req=1 ttl=230 time=192 ms
+
+--- www.d.tsinghua.edu.cn ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 192.553/192.553/192.553/0.000 ms

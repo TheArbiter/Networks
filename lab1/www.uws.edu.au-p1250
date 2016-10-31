@@ -1,0 +1,6 @@
+PING uws.squizedge.net (202.9.95.188) 1222(1250) bytes of data.
+1230 bytes from lb01.syd1.au.squizedge.net (202.9.95.188): icmp_req=1 ttl=53 time=2.12 ms
+
+--- uws.squizedge.net ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.124/2.124/2.124/0.000 ms

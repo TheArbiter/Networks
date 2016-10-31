@@ -1,0 +1,12 @@
+PING www.uq.edu.au (130.102.131.70) 22(50) bytes of data.
+30 bytes from wsa-www.soe.uq.edu.au (130.102.131.70): icmp_req=1 ttl=243 time=16.8 ms
+30 bytes from wsa-www.soe.uq.edu.au (130.102.131.70): icmp_req=2 ttl=243 time=16.8 ms
+30 bytes from wsa-www.soe.uq.edu.au (130.102.131.70): icmp_req=3 ttl=243 time=16.7 ms
+30 bytes from wsa-www.soe.uq.edu.au (130.102.131.70): icmp_req=4 ttl=243 time=16.9 ms
+30 bytes from wsa-www.soe.uq.edu.au (130.102.131.70): icmp_req=5 ttl=243 time=16.9 ms
+30 bytes from wsa-www.soe.uq.edu.au (130.102.131.70): icmp_req=6 ttl=243 time=16.8 ms
+30 bytes from wsa-www.soe.uq.edu.au (130.102.131.70): icmp_req=7 ttl=243 time=16.9 ms
+
+--- www.uq.edu.au ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6010ms
+rtt min/avg/max/mdev = 16.797/16.874/16.985/0.152 ms

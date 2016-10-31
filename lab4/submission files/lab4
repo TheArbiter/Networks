@@ -1,0 +1,17 @@
+Q2) Because the queuing delay increases due to the buffer filling 
+which causes the ACK to take longer to get back which delays the next window increases
+
+Q3)Higher variance. for about tens of TCP flows, usually they are synchronized, therefore high variance would be observed.
+
+Q4) Hosts should share bandwidth equally. but in reality this is not 100% possible
+	If all hosts used UDP they would share bandwidth equally
+
+Q5) Bandwidth will be shared in this way. Each flow would get its bandwidth in the following way (total bandwidth)/(total number of tcp flows)
+    TCP flows would have 0 bandwidth. UDP flow would get the total bandwidth eventually. That is why we need port fwd etc so that they could coexist
+
+Q6) The average RTT is 20.306ms. Takes around 1.0s to download a web page
+Q7) RTT min/avg/max/mdev = 404.663/620.898/811.380/125.900
+	ping RTT follows the AIMD behavior when buffer is getting longer RTT gets longer 
+Q8) It take about 3.9s to download
+	with long-lived flow it will repeat its own AIMD dynamic congestion window control thing. filling the buffer then resizing, releaving the buffer until it saturates it again. Hence the increase in time
+Q9 onwards) couldnt complete since I couldnt open another terminal and sshfs into it because the connection kept getting reset this was on the cse machines 

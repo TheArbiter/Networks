@@ -1,0 +1,6 @@
+PING wwwcluster.cc.flinders.edu.au (129.96.252.74) 22(50) bytes of data.
+30 bytes from www.fhrc.flinders.edu.au (129.96.252.74): icmp_req=1 ttl=51 time=22.6 ms
+
+--- wwwcluster.cc.flinders.edu.au ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.669/22.669/22.669/0.000 ms

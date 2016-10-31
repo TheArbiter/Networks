@@ -1,0 +1,6 @@
+PING www.nus.edu.sg (137.132.21.27) 472(500) bytes of data.
+480 bytes from ddu.nus.edu.sg (137.132.21.27): icmp_req=1 ttl=43 time=120 ms
+
+--- www.nus.edu.sg ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 120.517/120.517/120.517/0.000 ms
